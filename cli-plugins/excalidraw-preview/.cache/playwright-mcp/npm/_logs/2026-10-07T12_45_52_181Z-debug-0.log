@@ -15,3 +15,9 @@
 14 http fetch GET 200 https://registry.npmjs.org/@playwright%2fmcp 464ms (cache revalidated)
 15 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
 16 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+17 verbose cwd /home/david/Projects/github/engineer-agents-gpt/cli-plugins/excalidraw-preview
+18 verbose os Linux 6.16.4-200.fc42.x86_64
+19 verbose node v22.18.0
+20 verbose npm  v10.9.3
+21 verbose exit 0
+22 info ok
