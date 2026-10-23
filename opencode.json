@@ -71,14 +71,6 @@
         "url": "https://mcp.context7.com/mcp",
         "codemode": true,
         "timeout": { "execution": 60000 }
-      },
-      "likec4": {
-        "type": "local",
-        "command": [
-          "npx",
-          "-y",
-          "@likec4/mcp"
-        ]
       }
     }
   },
